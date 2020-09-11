@@ -1,0 +1,5 @@
+﻿  game.c
+C:\Users\86178\source\repos\小游戏--三子棋\小游戏--三子棋\game.c(83,15): warning C4098: “PlayerMove”:“void”函数返回值
+C:\Users\86178\source\repos\小游戏--三子棋\小游戏--三子棋\game.c(111,14): warning C4098: “ComMove”:“void”函数返回值
+C:\Users\86178\source\repos\小游戏--三子棋\小游戏--三子棋\game.c(325,35): warning C4020: “DisplayBoard”: 实参太多
+  小游戏--三子棋.vcxproj -> C:\Users\86178\source\repos\小游戏--三子棋\Debug\小游戏--三子棋.exe
